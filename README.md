@@ -91,5 +91,3 @@ This project is provided for research and educational use.
 ```bash
 pip install numpy matplotlib opencv-python
 
- 
-

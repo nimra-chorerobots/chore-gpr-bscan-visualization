@@ -104,6 +104,7 @@ Install the required Python dependencies:
 ```bash
 pip install numpy matplotlib opencv-python
 
+---
 🎯 Intended Applications
 
 GPR-based subsurface classification
@@ -116,4 +117,6 @@ Dataset quality assurance
 
 Academic teaching and demonstrations
   
+
+
 

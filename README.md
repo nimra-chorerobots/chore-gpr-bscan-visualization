@@ -96,15 +96,6 @@ Visual inspection of the dataset reveals:
 These results confirm that the dataset is **suitable for downstream learning-based or hybrid physics–ML approaches**.
 
 ---
-
-## ⚙️ Requirements
-
-Install the required Python dependencies:
-
-```bash
-pip install numpy matplotlib opencv-python
-
----
 🎯 Intended Applications
 
 GPR-based subsurface classification
@@ -118,8 +109,6 @@ Dataset quality assurance
 Academic teaching and demonstrations
   
 
-
-
 ## 📦 Dataset Access
 
 The GPR B-scan dataset used in this repository is publicly available on **Mendeley Data**:
@@ -128,3 +117,13 @@ The GPR B-scan dataset used in this repository is publicly available on **Mendel
 https://data.mendeley.com/datasets/ww7fd9t325/1
 
 The dataset contains labeled GPR B-scan images categorized into intact ground, buried utilities, and cavities, along with augmented samples for data diversity.
+
+
+
+## ⚙️ Requirements
+
+Install the required Python dependencies:
+
+```bash
+pip install numpy matplotlib opencv-python
+

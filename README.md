@@ -62,32 +62,11 @@ GPR_data/
 ## ⚙️ Requirements
 
 Install required Python dependencies:
-
-🎯 Intended Use Cases
-
-GPR dataset inspection before ML/DL training
-
-Subsurface perception for autonomous robots
-
-Validation of augmented or synthetic radar data
-
-Academic teaching and demonstrations
-
-Physical AI and embodied perception pipelines
-
-🔬 Future Improvements
-
-Automated feature extraction pipelines
-
-CNN-based classification integration
-
-Hyperbola detection for buried utilities
-
-ROS2 integration for robotic perception stacks
+```bash
+pip install numpy matplotlib opencv-python
 
 📜 License
 
 This project is provided for research and educational use.
-```bash
-pip install numpy matplotlib opencv-python
+
 

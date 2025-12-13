@@ -45,8 +45,6 @@ GPR_data/
 ├── augmented_utilities/
 └── augmented_cavities/
 
-> Folder names must exactly match those used in the script.
-
 ---
 
 ## 🧪 Visualizations Included

@@ -120,3 +120,11 @@ Academic teaching and demonstrations
 
 
 
+## 📦 Dataset Access
+
+The GPR B-scan dataset used in this repository is publicly available on **Mendeley Data**:
+
+🔗 **Dataset link:**  
+https://data.mendeley.com/datasets/ww7fd9t325/1
+
+The dataset contains labeled GPR B-scan images categorized into intact ground, buried utilities, and cavities, along with augmented samples for data diversity.

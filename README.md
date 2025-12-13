@@ -91,6 +91,5 @@ This project is provided for research and educational use.
 ```bash
 pip install numpy matplotlib opencv-python
 
-
-The script expects the following folder structure:
+ 
 

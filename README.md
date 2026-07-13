@@ -96,7 +96,7 @@ Visual inspection of the dataset reveals:
 These results confirm that the dataset is **suitable for downstream learning-based or hybrid physics–ML approaches**.
 
 ---
-🎯 Intended Applications
+## 🎯 Intended Applications
 
 GPR-based subsurface classification
 
@@ -107,6 +107,26 @@ Preprocessing and validation for deep learning
 Dataset quality assurance
 
 Academic teaching and demonstrations
+
+## Project Status
+
+🟢 Prototype
+
+### Current Features
+
+- GPR B-Scan visualization
+- Sequential playback
+- Heatmap generation
+- Edge-based feature extraction
+- Dataset inspection
+
+### Planned
+
+- ROS 2 integration
+- Isaac Sim visualization
+- Real-time GPR processing
+- Underground object classification
+- AI-based anomaly detection
   
 
 ## 📦 Dataset Access

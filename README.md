@@ -19,27 +19,36 @@ The provided data supports:
 
 ---
 
-## 📁 Dataset Structure
-The dataset is organized by semantic subsurface class:
+## 📂 Dataset Structure
+
+The dataset is organized into semantic subsurface classes, with both original and augmented Ground Penetrating Radar (GPR) B-scan images.
+
+```text
 GPR_data/
-│
 ├── intact/
-│ ├── *.jpg
-│
-├── Utilities/
-│ ├── *.jpg
-│
+│   ├── image_001.jpg
+│   ├── image_002.jpg
+│   └── ...
+├── utilities/
+│   ├── image_001.jpg
+│   ├── image_002.jpg
+│   └── ...
 ├── cavities/
-│ ├── *.jpg
-│
+│   ├── image_001.jpg
+│   ├── image_002.jpg
+│   └── ...
 ├── augmented_intact/
-│ ├── *.jpg
-│
+│   ├── image_001.jpg
+│   ├── image_002.jpg
+│   └── ...
 ├── augmented_utilities/
-│ ├── *.jpg
-│
+│   ├── image_001.jpg
+│   ├── image_002.jpg
+│   └── ...
 └── augmented_cavities/
-├── *.jpg
+    ├── image_001.jpg
+    ├── image_002.jpg
+    └── ...
 
 
 ### Class Descriptions
